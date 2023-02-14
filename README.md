@@ -11,8 +11,8 @@ Basic API Server where we write some middleware and practice deployment
 ### Links and Resources
 
 - [GitHub Actions ci/cd](http://xyz.com) 
-- Dev [back-end server url](https://d51-practice.onrender.com) 
-- Prod [back-end server url](enterYourUrl.xyz) 
+- Dev [back-end server url](https://service-deployment-practice-dev-foan.onrender.com) 
+- Prod [back-end server url](https://service-deployment-practice-main.onrender.com) 
 
 ### Setup
 
@@ -33,10 +33,11 @@ not necessary for this lab, wait for tomorrow
 #### Tests
 
 fill this in as you see fit
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- How do you run tests? npm test
+- Any tests of note? No
+- Describe any tests that you did not complete, skipped, etc 
+N/A
 
 #### UML
 
-![Lab-01 UML](assets/lab-01-uml.png)
+![Lab-01](assets/lab-01.png)
