@@ -10,9 +10,10 @@ Basic API Server where we write some middleware and practice deployment
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](http://xyz.com) 
+- [GitHub Actions ci/cd](https://github.com/afrey09/server-deployment-practice/actions) 
 - Dev [back-end server url](https://service-deployment-practice-dev-foan.onrender.com) 
-- Prod [back-end server url](https://service-deployment-practice-main.onrender.com) 
+- Prod [back-end server url](https://service-deployment-practice-main.onrender.com)
+- PR [pull requests url](https://github.com/afrey09/server-deployment-practice/pulls?q=is%3Apr+is%3Aclosed) 
 
 ### Setup
 
